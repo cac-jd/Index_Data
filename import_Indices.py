@@ -1,5 +1,6 @@
 # pulls top 6 Indices from marketwatch into lists to be used in
 # insert_index_data
+
 from bs4 import BeautifulSoup
 import requests
 import time
